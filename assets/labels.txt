@@ -1,0 +1,35 @@
+good morning
+hello
+sorry
+yes
+no
+i love you
+stop
+like
+wow
+a
+b
+c
+d
+e
+f
+g
+h
+i
+j
+k
+l
+m
+n
+o
+p
+q
+r
+s
+t
+u
+v
+w
+x
+y
+z
