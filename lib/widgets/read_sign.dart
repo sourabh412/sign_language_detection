@@ -15,7 +15,7 @@ class ReadSign extends StatefulWidget {
 class _ReadSignState extends State<ReadSign> {
 
   bool isWorking = false;
-  String result = "";
+  String result = ".";
   CameraController? cameraController;
   CameraImage? imageCamera;
 
@@ -53,7 +53,7 @@ class _ReadSignState extends State<ReadSign> {
         asynch: true
     );
 
-    result = "";
+    result = ".";
 
     recognitions!.forEach((response) {
       result += response['label'];
